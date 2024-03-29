@@ -2,4 +2,44 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF3E49</color>
+
+    <color name="primary1">#FFEFF5FF</color>
+    <color name="primary2">#FFBCDAFE</color>
+    <color name="primary3">#FF408BFD</color>
+    <color name="primary4">#FF0061F4</color>
+
+    <!-- Gray Scale -->
+    <color name="gray_50">#FFF9FAFA</color>
+    <color name="gray_100">#FFF4F5F6</color>
+    <color name="gray_200">#FFEBEDEF</color>
+    <color name="gray_300">#FFDDE0E3</color>
+    <color name="gray_400">#FFB6BBC3</color>
+    <color name="gray_500">#FF949CA8</color>
+    <color name="gray_600">#FF6A7381</color>
+    <color name="gray_700">#FF575F6B</color>
+    <color name="gray_800">#FF3C4149</color>
+    <color name="gray_900">#FF1E2024</color>
+
+    <!-- ID Card -->
+    <color name="yellow_1">#FFFEFAE0</color>
+    <color name="yellow_2">#FFF2EED5</color>
+    <color name="yellow_3">#FFFFDC00</color>
+    <color name="yellow_4">#FFD79044</color>
+
+    <color name="orange_1">#FFFFF4E4</color>
+    <color name="orange_2">#FFF8E9D3</color>
+    <color name="orange_3">#FFFE944D</color>
+    
+    <color name="green_1">#FFEEF8EA</color>
+    <color name="green_2">#FFE1F1DA</color>
+    <color name="green_3">#FF06C755</color>
+
+    <color name="mint_1">#FFE6F4F4</color>
+    <color name="mint_2">#FFD4EAEA</color>
+    <color name="mint_3">#FF2AC1BC</color>
+
+    <color name="blue_1">#FFEFF5FF</color>
+    <color name="blue_2">#FFE3EAF6</color>
+    <color name="blue_3">#FF408BFD</color>
 </resources>
