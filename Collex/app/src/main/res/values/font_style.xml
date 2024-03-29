@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Headline -->
+    <style name="headline_1">
+        <item name="android:textSize">@dimen/text_30</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_bold</item>
+    </style>
+    <style name="headline_2">
+        <item name="android:textSize">@dimen/text_22</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_bold</item>
+    </style>
+    <style name="headline_3">
+        <item name="android:textSize">@dimen/text_18</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_bold</item>
+    </style>
+    <style name="headline_4">
+        <item name="android:textSize">@dimen/text_18</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_regular</item>
+    </style>
+
+    <!-- Title -->
+    <style name="title_1">
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_medium</item>
+    </style>
+    <style name="title_2">
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_regular</item>
+    </style>
+    <style name="title_3">
+        <item name="android:textSize">@dimen/text_14</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_medium</item>
+    </style>
+    
+    <!-- Body -->
+    <style name="body_1">
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_regular</item>
+    </style>
+    <style name="body_2">
+        <item name="android:textSize">@dimen/text_14</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_regular</item>
+    </style>
+    <style name="body_3">
+        <item name="android:textSize">@dimen/text_12</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_regular</item>
+    </style>
+
+    <!-- Label -->
+    <style name="label_1">
+        <item name="android:textSize">@dimen/text_16</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_medium</item>
+    </style>
+    <style name="label_2">
+        <item name="android:textSize">@dimen/text_14</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_medium</item>
+    </style>
+    <style name="label_3">
+        <item name="android:textSize">@dimen/text_12</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_medium</item>
+    </style>
+    <style name="label_4">
+        <item name="android:textSize">@dimen/text_11</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="fontFamily">@font/noto_sans_kr_medium</item>
+    </style>
+
+</resources>
